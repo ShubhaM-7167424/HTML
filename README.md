@@ -1,2 +1,2 @@
 # HTML
-This is for the basics of javascript
+This is for the basics of HTML
